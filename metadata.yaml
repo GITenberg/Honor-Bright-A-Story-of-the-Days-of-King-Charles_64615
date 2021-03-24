@@ -1,0 +1,29 @@
+_repo: Honor-Bright-A-Story-of-the-Days-of-King-Charles_64615
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Rowsell, Mary C. (Mary Catherine)
+    alias: Rowsell, Mary Catherine
+    birthdate: 1839
+    deathdate: 1921
+    gutenberg_agent_id: '52986'
+    url: http://www.gutenberg.org/2009/agents/52986
+    wikipedia: https://en.wikipedia.org/wiki/Mary_Catherine_Rowsell
+description: ''
+gutenberg_issued: '2021-02-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64615'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Education of princes -- Juvenile fiction'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Kings and rulers -- Juvenile fiction'
+- !lcsh 'Charles II, King of England, 1630-1685 -- Juvenile fiction'
+- GITenberg
+title: 'Honor Bright: A Story of the Days of King Charles'
+url: http://www.gutenberg.org/ebooks/64615
